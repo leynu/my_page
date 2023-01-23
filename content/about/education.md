@@ -3,25 +3,15 @@ date_format: Jan 2006
 design:
   columns: "1"
 experience:
-- company: University X
-  company_logo: org-x
-  company_url: ""
-  date_end: "2022-01-01"
-  date_start: "2021-01-01"
+- company: University of Gothenburg
+  company_logo: org-gu
+  company_url: "https://www.gu.se/en"
+  date_end: "2002-05-01"
+  date_start: "1997-09-01"
   description: |2-
-      * Dissertation on Y
-      * Basketball team
-      * DJ club
-  location: California
-  title: MEng Electronic Engineering
-- company: University X
-  company_logo: org-x
-  company_url: ""
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  description: My dissertation was on X
-  location: California
-  title: BEng Electronic Engineering
+    Dissertation on: Sample Size Determination in Affected Sib‐Pairs Studies
+  location: Gothenburg, Sweden
+  title: Master of Science Degree in Mathematical Statistics
 headless: true
 subtitle: null
 title: Education
