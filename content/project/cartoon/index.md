@@ -1,8 +1,12 @@
 ---
 date: "2022-01-01"
-external_link: http://github.com
+#external_link: http://github.com
 summary: Write about your project here...
 tags:
-- CV
-title: Cartoon Face Generator
+- book
+- fun
+title: Someday is today
+subtitle: Matthew Dicks
 ---
+
+adasda adsd a asd

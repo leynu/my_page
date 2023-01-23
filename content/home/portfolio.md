@@ -28,13 +28,24 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
-
+    - name: Books
+      tag: book, fun
+    - name: Podcasts
+      tag: podcast
+    - name: Youtube
+      tag: youtube
+    - name: Fun
+      tag: fun
+    # - name: Fun2
+    #   tag: fun2
+    # - name: Fun3
+    #   tag: fun3
+    # - name: Fun4
+    #   tag: fun4
+    # - name: Fun5
+    #   tag: fun5
+    # - name: Fun666
+    #   tag: fun666
 design:
   columns: '1'
   view: masonry
