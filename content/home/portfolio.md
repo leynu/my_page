@@ -29,7 +29,7 @@ content:
     - name: All
       tag: '*'
     - name: Books
-      tag: book, fun
+      tag: Book
     - name: Podcasts
       tag: podcast
     - name: Youtube
