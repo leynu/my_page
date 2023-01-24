@@ -1,13 +1,14 @@
 ---
-title: test
+title: For #TidyTuesday - Chocolate Ratings
 author: LN
-date: '2023-01-23'
+date: '2022-02-23'
 slug: test
 categories:
   - R
 tags:
-  - book
-subtitle: ''
+  - R
+  - TidyTuesday
+subtitle: 'Chocolate Ratings'
 summary: ''
 authors: [LN2]
 lastmod: '2023-01-23T01:43:50+01:00'
@@ -19,3 +20,5 @@ image:
   preview_only: no
 projects: []
 ---
+
+test
