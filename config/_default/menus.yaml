@@ -11,8 +11,7 @@ main:
     url: post/
     weight: 20
   - name: Notes
-    title: Blog posts
-    url: project/
+    url: note/
     weight: 30
   - name: Resumé
     url: about/
