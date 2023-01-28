@@ -7,10 +7,11 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Posts
+  - name: Stats/R
     url: post/
     weight: 20
-  - name: Projects
+  - name: Notes
+    title: Blog posts
     url: project/
     weight: 30
   - name: Resumé

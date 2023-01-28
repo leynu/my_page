@@ -5,7 +5,7 @@ author: "LN"
 summary: " "
 date: 2022-01-30T21:13:14-05:00
 categories: ["R"]
-tags: ["R Markdown", "plot", "TidyTuesday"]
+tags: ["R Markdown", "plot"]
 ---
 
 ```{r setup, include=FALSE}

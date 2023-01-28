@@ -34,8 +34,6 @@ content:
       tag: podcast
     - name: Youtube
       tag: youtube
-    - name: Fun
-      tag: fun
     # - name: Fun2
     #   tag: fun2
     # - name: Fun3
