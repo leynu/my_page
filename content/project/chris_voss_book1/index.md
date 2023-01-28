@@ -14,24 +14,20 @@ tags:
 - Management
 title: Never split the difference 
 ---
-Chris Voss is a former FBI hostage negotiator. If you want to learn how to negotiate, he’s your top teacher.
 
-The author, who is a former FBI hostage negotiator, included too many hostage stories.
+[Chris Voss](https://www.blackswanltd.com/chris-voss) is an internationally known expert in negotiating skills and a former FBI hostage negotiator. There are many types of negotiating, including negotiating with a family member, buying a car, and working with colleagues. His book, [<<Never split the difference>>](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805), can be valuable for all of them. In his book, the author discusses the nuances of what to say, how to say it... 
 
-Chris Voss is one of the preeminent practitioners and professors of negotiating skills in the world
+There are many anecdotes in the book that illustrate how negotiations can be very successful. It is a book that should be read slowly and taken notes on. It doesn't promise to make you a better negotiator just by reading it. The book requires re-reading, which I plan to do, and a great deal of practice. 
 
-this book is valuable to many types of negotiating, even situations that we may not consider to be negotiating...
-(like negotiating with a family member, buying a car, or working with colleagues), the stories aren't that useful and such a perspective on negotiations isn't practical.
+I've found this [list](https://github.com/mgp/book-notes/blob/master/never-split-the-difference.markdown) of more notes you might find interesting. Take what you need to improve your life and enjoy the important history lessons. I highly recommend this book!
 
-Ask questions, collect information, and consider creative ways to get to your goals (such as non-monetary items - amenities, upgrades, positive reviews, and referrals). There is much more in the book that goes through the nuances of what to say, how to say it, and how to behave. It is a book that you need to read slowly, take notes, and practice the tips before moving on to the next chapter.
+<font size="2"> 
 
-The book is filled with anecdotes that illustrate how negotiations can be very successful--or how ignoring his advice can be the route to failure. I highly recommend this book!
+-   Connect with Chris: [Website](https://www.blackswanltd.com/chris-voss)
 
+-   Buy Chris\'s book: [Never split the difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
 
-I've found this list of more notes you might find helpful, too: https://github.com/mgp/book-notes/blo...
-https://github.com/mgp/book-notes/blob/master/never-split-the-difference.markdown
+-   Listen to: [The Jordan B. Peterson Podcast: Chris Voss with Jordan and Mikhaila Peterson](https://podcasts.apple.com/us/podcast/chris-voss-with-jordan-and-mikhaila-peterson/id1184022695?i=1000504193324) \| [Modern Wisdom: #237 - Chris Voss - How To Negotiate Like An FBI Agent](https://podcasts.apple.com/us/podcast/237-chris-voss-how-to-negotiate-like-an-fbi-agent/id1347973549?i=1000496074126)
 
-I make no illusion that I'm going to become a better negotiator just by reading it. It requires re reading (which I'm planning to do) and practice and experience
-
-Definitely worth reading multiple times. Take what you need to improve your life and enjoy the important history lessons.
+</font> 
 

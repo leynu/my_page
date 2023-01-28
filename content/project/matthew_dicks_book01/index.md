@@ -27,7 +27,7 @@ That quote from Pablo Picasso are the first words you read. [Matthew Dicks](http
 
 -   Buy Matthew\'s book: [Someday is Today: 22 Simple, Actionable Ways to Propel your Creative Life.](http://amzn.to/3VYnQgc)
 
--   Listen to the [Episode453: Matthew Dicks talks about actionable ways to propel your creative life](https://productivityist.com/podcast453/ "Episode 453")
+-   Listen to: [Episode453: Matthew Dicks talks about actionable ways to propel your creative life](https://productivityist.com/podcast453/ "Episode 453")
 </font> 
 
  
