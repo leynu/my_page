@@ -25,9 +25,12 @@ When you send an email, you are less likely to negotiate, you are less likely to
 
 **Diversity**, in this case **cognitive diversity**, is extremely beneficial to us; it is when humans begin to do their best thinking. An agreement is not a worthwhile goal if you want to solve a problem in an innovative or creative manner. Having cognitive diversity is extremely helpful - that is when you'll have the best ideas, that is when you'll come up with the best plans - but we don't enjoy it! It is not comfortable.
 
-<div style="font-size: 1rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"> 
+<div style="font-size: 1.3rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"> 
+Consensus is the enemy of innovation.
+</div> 
 
-In organizations, we are told to reach consensus and make trade-offs so that everyone can agree. Consensus is the enemy of innovation.</div> The lesson we need to learn is that everyone will not agree on everything and that's okay. Finding the best of the different ideas needs to be the goal, not consensus.
+In organizations, we are told to reach consensus and make trade-offs so that everyone can agree. The lesson we need to learn is that everyone will not agree on everything and that's okay. Finding the best of the different ideas needs to be the goal, not consensus.
+
 
 <font size="3">
 
@@ -41,4 +44,3 @@ In organizations, we are told to reach consensus and make trade-offs so that eve
 
 
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async="" data-type="track" data-hash="AQVxlN4DEO" data-track="51" src="https://app.fusebox.fm/embed/player.js"></script>
-
