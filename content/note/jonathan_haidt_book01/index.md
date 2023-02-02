@@ -43,7 +43,4 @@ It's a good read and I recommend it. The book reflects modern thinking, modern s
 
 </font>
 
-<img src="https://unsplash.com/photos/YXwt-vJ3szA" alt="the elefant">
-
-
 
