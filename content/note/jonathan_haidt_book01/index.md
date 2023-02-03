@@ -43,4 +43,3 @@ It's a good read and I recommend it. The book reflects modern thinking, modern s
 
 </font>
 
-
