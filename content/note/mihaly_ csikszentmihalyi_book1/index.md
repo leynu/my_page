@@ -15,7 +15,7 @@ tags:
 - Leadership
 - Design
 title: Flow
-subtitle: The Psychology of Optimal Experience (Harper Perennial Modern Classics) 
+subtitle: The Psychology of Optimal Experience
 ---
 
 
