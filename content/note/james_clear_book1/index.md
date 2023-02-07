@@ -28,7 +28,7 @@ A habit is a behaviour repeated enough times to be performed more or less automa
 *Liking*: In order to repeat a behaviour, we have to enjoy it. We're unlikely to stick with something if we don't enjoy the experience. As rewards are often delayed, we need to figure out how to bring them into the present moment. As Seth Godin says:
 > The best way to change long-term behavior is with short-term feedback.
 
-If you're interested in understanding the science behind habit building and implementing those baby steps to build or break an habit, I highly recommend this book.
+If you're interested in understanding the science behind habit building and implementing those baby steps to build or break a habit, I highly recommend this book.
 
 > Success is the product of daily habits—not once-in-a-lifetime transformations.
 
