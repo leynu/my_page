@@ -19,7 +19,7 @@ subtitle: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 
 A habit is a behaviour repeated enough times to be performed more or less automatically. According to [James Clear](https://jamesclear.com/), there are four stages of habit formation:
 
-*Noticing*: To achieve a habit, we believe that we must gain motivation and develop willpower. We lack clarity, not motivation. We should remove the decision-making process by explicitly stating: **When**, **Where**, and **How** the habit should be implemented.
+*Noticing*: To achieve a habit, we believe that we must gain motivation and develop willpower. We usually lack clarity, not motivation. We should remove the decision-making process by explicitly stating: **When**, **Where**, and **How** the habit should be implemented.
 
 *Wanting*: One of the most overlooked drivers of habits and human behaviour is our physical environment. Our desires are influenced by our environment. Often, we want things because they are an option, they are available to us. The good news is that you can become an architect of your environment rather than a victim of it. By designing your environment, you can make good behaviour easier and bad behaviour harder.
 
