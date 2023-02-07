@@ -41,7 +41,7 @@ Being my second book on management, it was interesting, readable, and very hones
 <font size="2">
 
 -   Connect: [Wikipedia](https://en.wikipedia.org/wiki/Ben_Horowitz) \| [Twitter](https://twitter.com/bhorowitz)
--   Book: [Fhe Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) 
+-   Book: [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) 
 
 - Podcast: [The Tim Ferriss Show #392: Ben Horowitz — What You Do Is Who You Are >> Lessons from Silicon Valley, Andy Grove, Genghis Khan, Slave Revolutions, and More](https://podcasts.apple.com/us/podcast/392-ben-horowitz-what-you-do-is-who-you-are-lessons/id863897795?i=1000454746507)
 
