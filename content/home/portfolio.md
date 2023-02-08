@@ -8,10 +8,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
-title: ''
-subtitle: ''
+title: 'The Books I read. The Podcast I listen. <br> The Youtube I watch. '
+subtitle: 'They may also be of interest to you.'
 
 content:
   # Page type to display. E.g. project.
@@ -49,5 +49,5 @@ design:
   view: masonry
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: {padding: [25, 0, 0, 0]}
 ---

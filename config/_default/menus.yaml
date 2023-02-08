@@ -16,3 +16,6 @@ main:
   - name: Resumé
     url: about/
     weight: 40
+  - name: Tour
+    url: tour
+    weight: 50
