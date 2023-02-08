@@ -8,9 +8,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: about/#contact
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/wowchemy
 # - icon: instagram
 #   icon_pack: fabs
 #   link: https://instagram.com/geocushen
@@ -20,6 +17,13 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/leynu/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/leynu_
+- icon: file-pdf
+  icon_pack: fas    
+  label: CV
+  link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
