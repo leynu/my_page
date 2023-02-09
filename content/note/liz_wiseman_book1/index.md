@@ -17,10 +17,11 @@ title: Multipliers
 subtitle: How the Best Leaders Make Everyone Smarter
 ---
 
+Leadership isn't about being the smartest person in the room, but about making your team smarter. Leaders should be multipliers not diminishes - this may seem obvious, but it is not as straightforward as it may appear. Most leaders have good intentions, but some characteristics we consider "good" aren't so great. As an example, if you try to protect your team from failure, you take out the crucial feedback loop that comes from failure. 
 
+Multipliers are able to tap into the intelligence of their organizations, grow it, and increase the capability of their team members. Diminishers "shut down the smarts of those around them." Multipliers begin with the assumption: "People are smart and will figure this out." Diminishers begin with the assumption: "They will never figure this out without me."
 
-
-
+However, the book suffers from the same flaw as most self-help books I've encountered - there's not much actionable advice in it and it gets very repetitive. Ideally, the whole book could have been condensed into the first chapter. In my opinion, you shouldn't read beyond the first chapter unless you have a lot of time to spare. You can also read a summary online, see my recommendations below.
 
 <font size="2">
 
@@ -28,9 +29,11 @@ subtitle: How the Best Leaders Make Everyone Smarter
 
 -   Book: [Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) 
 
-- Podcast: [The Tim Ferriss Show #392: Ben Horowitz — What You Do Is Who You Are >> Lessons from Silicon Valley, Andy Grove, Genghis Khan, Slave Revolutions, and More](https://podcasts.apple.com/us/podcast/392-ben-horowitz-what-you-do-is-who-you-are-lessons/id863897795?i=1000454746507)
+- Summarys: [by Michael Batko](https://medium.com/mbreads/book-summary-multipliers-b1951ff6301a) \|
+[Blinkist](https://www.blinkist.com/en/books/multipliers-en) \| 
+[Shortform](https://www.shortform.com/summary/multipliers-summary-liz-wiseman)
 
--   Youtube: [How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)](https://www.youtube.com/watch?v=PZ7lDrwYdZc&t=669s) \| 
+-   Youtube: [Talks at Google](https://www.youtube.com/watch?v=amk-1_wcmKo) 
 
 </font>
 

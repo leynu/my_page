@@ -6,7 +6,7 @@ widget: pages
 headless: true
 active: true
 weight: 20
-title: 'Recent R/Stats Posts'
+title: 'Recent Stats/R Posts'
 subtitle: ''
 content: 
   offset: 0
