@@ -32,8 +32,8 @@ content:
       tag: Book
     - name: Podcasts
       tag: podcast
-    - name: Youtube
-      tag: youtube
+    - name: Movies
+      tag: Movie
     # - name: Fun2
     #   tag: fun2
     # - name: Fun3

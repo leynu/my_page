@@ -7,6 +7,7 @@ tags:
 - Documentary
 - History
 - Johannes Vermeer
+- Movie
 title: Tim's Vermeer
 subtitle: Tim Jenison, Penn Jillette, Martin Mull 
 ---
