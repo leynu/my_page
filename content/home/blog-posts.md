@@ -9,6 +9,7 @@ weight: 20
 title: 'Recent Stats/R Posts'
 subtitle: ''
 content: 
+  count: 2
   offset: 0
   order: desc
   filters:
