@@ -17,16 +17,32 @@ title: Building a Second Brain
 subtitle: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential
 ---
 
+In this information age, we are overloaded with information. Approximately 34 Gb of information is processed by the average person every day, according to the [_New York Times_](https://www.nytimes.com/2009/12/10/technology/10data.html). It is simply too much for one brain to handle. The idea of a "second brain" is to give our minds enough space to be more creative and fulfilling.
+
+There is no need to remember everything. You're probably already taking notes, but if they're not organized and you don't know how to use them, this book can help. Different criteria can be used to categorize these notes based on their usefulness. A note-taking system should be easily accessible and organized in a way that allows you to refer back to it, elaborate on it, and add to it at any time. 
+
+Besides taking notes digitally, I also keep a physical journal. Some of my favourite apps are:
+
+- [Roam](https://roamresearch.com/)
+
+- [Todoist](https://todoist.com/)
+
+- [Bear](https://bear.app/)
+
+This book is a useful read for people who are struggling with digital clutter or who are trying to become more productive or creative. However, I agree with others that it really could have been a medium-sized blog post.
+
+
+
 
 <font size="2"> 
 
--   Connect with Matthew: [Website](https://www.oliverburkeman.com/) \| [Twitter](https://twitter.com/oliverburkeman)
+-   Connect with Tiago: [Website](https://fortelabs.com/) \| [Twitter](https://twitter.com/fortelabs) \| [Youtube](https://www.youtube.com/tiagofortelabs)
 
--   Buy Oliver\'s books: [Four Thousand Weeks: Time Management for Mortals](https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122) \| [The Antidote: Happiness for People Who Can't Stand Positive Thinking](https://www.amazon.com/Antidote-Happiness-People-Positive-Thinking/dp/0865478015)
+-   Books: [Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential](https://www.amazon.com/Building-Second-Brain-Organize-Potential/dp/1982167386)
 
--   Listen to: [The Happy Pear Podcast: How to achieve more by doing less with Oliver Burkeman](https://podcasts.apple.com/us/podcast/how-to-achieve-more-by-doing-less-with-oliver-burkeman/id1549198108?i=1000583856515) \| [Feel Better, Live More with Dr Rangan Chatterjee: #260 How To Stop Feeling Overwhelmed with Oliver Burkeman](https://podcasts.apple.com/se/podcast/260-how-to-stop-feeling-overwhelmed-with-oliver-burkeman/id1333552422?i=1000558034661) \| [Deep Dive with Ali Abdaal: How Productivity Ruins Your Life with Productivity Expert Oliver Burkeman](https://podcasts.apple.com/gb/podcast/how-productivity-ruins-your-life-with-productivity/id1587142091?i=1000548776788) \| and many more ...
+-   Listen to: [Modern Wisdom #074 - Tiago Forte - The Definitive Guide To Digital Productivity](https://podcasts.apple.com/mn/podcast/074-tiago-forte-definitive-guide-to-digital-productivity/id1347973549?i=1000439118626) \| [Modern Wisdom #501 - Tiago Forte - Supercharged Effortless Productivity](https://podcasts.apple.com/gb/podcast/501-tiago-forte-supercharged-effortless-productivity/id1347973549?i=1000570272003)
 
--  TEDx Talks: [How to stop fighting against time. | Oliver Burkeman | TEDxUniversityofNicosia](https://www.youtube.com/watch?v=XtfCmhPr-J8)
+-  Other useful resources : [Building a Second Brain: The Illustrated Notese](https://maggieappleton.com/basb) \| [Talks at Google: Tiago Forte - Building a Second Brain](https://www.youtube.com/watch?v=Y86GOtc1KNo&t=38s) \| [Confronting my Productivity Guru - Tiago Forte](https://www.youtube.com/watch?v=ggLHkAq6JLY)
 
 </font> 
 
